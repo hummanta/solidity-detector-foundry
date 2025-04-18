@@ -6,7 +6,7 @@ Welcome to the project! We greatly appreciate your contributions. Before submitt
 
 ### Reporting Issues
 
-If you find a bug or have a feature request, please first check the [issue tracker](https://github.com/hummanta/solidity-detector-file/issues) to see if the issue already exists. If it doesn't, please create a new issue and provide as much detail as possible, including:
+If you find a bug or have a feature request, please first check the [issue tracker](https://github.com/hummanta/solidity-detector-foundry/issues) to see if the issue already exists. If it doesn't, please create a new issue and provide as much detail as possible, including:
 
 - A description of the issue
 - Steps to reproduce the issue
@@ -21,8 +21,8 @@ If you find a bug or have a feature request, please first check the [issue track
 2. **Clone the Repository**: Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/hummanta/solidity-detector-file.git
-   cd solidity-detector-file
+   git clone https://github.com/hummanta/solidity-detector-foundry.git
+   cd solidity-detector-foundry
    ```
 
 3. **Create a Branch**: Create a new branch for your changes.

@@ -1,7 +1,7 @@
 # solidity-detector-foundry
 
-A simple CLI tool to detect Solidity projects by verifying if a "foundry.toml"
-file exists in the specified path and if there is at least one ".sol" file in
+A simple CLI tool to detect Solidity projects by verifying if a `foundry.toml`
+file exists in the specified path and if there is at least one `.sol` file in
 the directory.
 
 ## Installation
