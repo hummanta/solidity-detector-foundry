@@ -1,0 +1,21 @@
+version = "v0.1.16"
+
+[artifacts.x86_64-pc-windows-msvc]
+url = "https://github.com/hummanta/solidity-detector-foundry/releases/download/v0.1.16/solidity-detector-foundry-v0.1.16-x86_64-pc-windows-msvc.tar.gz"
+hash = "e728e0d087032a1a233d2ae6f9dec4590e28cc85246ca424550663ad59859d51"
+
+[artifacts.aarch64-unknown-linux-gnu]
+url = "https://github.com/hummanta/solidity-detector-foundry/releases/download/v0.1.16/solidity-detector-foundry-v0.1.16-aarch64-unknown-linux-gnu.tar.gz"
+hash = "4ec844b206e8da0c0dccc6ab0990f095d305ab7320e9fabb2acb8ad9550e899f"
+
+[artifacts.x86_64-unknown-linux-gnu]
+url = "https://github.com/hummanta/solidity-detector-foundry/releases/download/v0.1.16/solidity-detector-foundry-v0.1.16-x86_64-unknown-linux-gnu.tar.gz"
+hash = "7d3add0d3749bf39a145b6aed73c8d955f2fefc4d1a6dcdaf0b4a6dbcf69a54e"
+
+[artifacts.aarch64-apple-darwin]
+url = "https://github.com/hummanta/solidity-detector-foundry/releases/download/v0.1.16/solidity-detector-foundry-v0.1.16-aarch64-apple-darwin.tar.gz"
+hash = "d8c9dda66a1393c37083e92c6071a639b9dda6a40ed234ef4bcb5cd271222540"
+
+[artifacts.x86_64-apple-darwin]
+url = "https://github.com/hummanta/solidity-detector-foundry/releases/download/v0.1.16/solidity-detector-foundry-v0.1.16-x86_64-apple-darwin.tar.gz"
+hash = "13ce52c31fbb0495fdbace048bf42ac5e3e50fc3294968678d292075ccb91927"
